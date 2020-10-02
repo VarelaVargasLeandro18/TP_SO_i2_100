@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ALFA: Ezequiel Matias Espil, IP: 127.0.1.1, vie 02 oct 2020 10:31:34 -03
+=======
+
+GAMMA: Varela Vargas Leandro Gastón IP: 192.168.0.20 Hora: 10:16
+>>>>>>> c82f5c6ac3f89f23560c5de780d4015d5f431838
