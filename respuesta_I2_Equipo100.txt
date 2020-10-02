@@ -13,3 +13,117 @@ Si
 
 e- realizar un listado con los apellidos y nombre de los alumnos , junto con los comando y
 orden de ejecución de los mismos, que debieron usar para este TP
+
+*-------------------------------------------
+*Guillermo Rios
+  - Comandos:
+
+   56  git clone https:github.com/riosguillermo/TP_SO_i2_100
+   57  git clone https://github.com/riosguillermo/TP_SO_i2_100
+   58  git add .
+   59  git add .
+   60  git stat
+   61  git status
+   62  git commit -m "4to punto"
+   63  git status
+   64  git push
+   65  git remote
+   66  git remote add VarelaVargasLeandro18 https://github.com/VarelaVargas18/TP_SO_i2_100.git
+   67  git remote
+   68  git pull VarelaVargasLeandro18
+   69  git pull origin
+   70  git add .
+   71  git status
+   72  git commit -m "preguntas C y D"
+   73  git status
+   74  git push
+   75  history
+
+*-------------------------------------------
+*Leandro Varela Vargas
+  - Comandos:
+
+  110  git clone https://github.com/VarelaVargasLeandro18/TP_SO_i2_100.git
+  111  ipconfig
+  112  git remote
+  113  ls
+  114  cd TP_SO_i2_100/
+  115  ls
+  116  clear
+  117  ls
+  118  git remote
+  119  git remote add RiosGuillermo https://github.com/riosguillermo/TP_SO_i2_100.git
+  120  git remote
+  121  ls
+  122  clear
+  123  git fetch RiosGuillermo
+  124  git branch
+  125  git log --oneline
+  126  ls
+  127  nano fork.txt
+  128  git commit -m "Terminado ejercicio 2"
+  129  git add .
+  130  git commit -m "Terminado ejercicio 2"
+  131  git remote
+  132  git push origin master
+  133  git push origin main
+  134  git remote
+  135  git pull RiosGuillermo
+  136  git pull RiosGuillermo main
+  137  git log --oneline
+  138  ls
+  139  more fork.txt
+  140  nano fork.txt
+  141  nano NuevoDato.txt
+  142  git branch
+  143  git status
+  144  git remote
+  145  git push origin main
+  146  ls
+  147  git nano fork.txt
+  148  nano fork.txt
+  149  git remote
+  150  git status
+  151  clear
+  152  touch respuesta_I2_Equipo100.txt
+  153  ls
+  154  git nano respuesta_I2_Equipo100.txt
+  155  nano respuesta_I2_Equipo100.txt
+  156  git add .
+  157  git commit -m "Agregado txt respuestas"
+  158  git push origin main
+  159  git remote
+  160  git pull RiosGuillermo
+  161  git pull RiosGuillermo main
+  162  ls
+  163  nano re (error de tipeo)
+  164  nano respuesta_I2_Equipo100.txt
+
+*-------------------------------------------
+*Ezequiel Espil
+
+-Comandos:
+    1  pwd
+    2  git clone https://github.com/ezequielespil/TP_SO_i2_100.git
+    3  git add
+    4  git add prueba
+    5  git remote
+    6  git clone https://github.com/ezequielespil/TP_SO_i2_100.git
+    7  git clone https://github.com/riosguillermo/TP_SO_i2_100.git
+    8  git clone https://github.com/VarelaVargasLeandro18/TP_SO_i2_100.git
+    9  git remote add RiosGuillermo https://github.com/riosguillermo/TP_SO_i2_100.git
+   10  git status
+   11  ls
+   12  cd TP_SO_i2_100
+   13  git status
+   14  git remote add RiosGuillermo https://github.com/riosguillermo/TP_SO_i2_100.git
+   15  git remote
+   16  git pull RiosGuillermo main
+   17  git config --global ezequielespil
+   18  git config --global "ezequielespil"
+   19  git config --global user.name "ezequielespil"
+   20  git pull RiosGuillermo main
+   21  git config --global user.email "ezequiel.espil@gmail.com"
+   22  git pull RiosGuillermo main
+   23  history
+
